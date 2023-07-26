@@ -9,6 +9,7 @@ django-pglocks==1.0.2
 django-sampledatahelper==0.4.1
 django-sites==0.10
 django-sr==0.0.4
+django-storages==1.13.2
 djmail==1.0.1
 easy-thumbnails==2.7.0
 fn==0.4.3
